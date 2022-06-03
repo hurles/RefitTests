@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitTestApi", "RefitTestApi\RefitTestApi.csproj", "{9283444E-9C32-4C98-8A1C-447F55E95683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitFrontEnd", "RefitFrontEnd\RefitFrontEnd.csproj", "{6C04113C-C3A0-4110-8C47-A08E8AF7385B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9283444E-9C32-4C98-8A1C-447F55E95683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9283444E-9C32-4C98-8A1C-447F55E95683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9283444E-9C32-4C98-8A1C-447F55E95683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9283444E-9C32-4C98-8A1C-447F55E95683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C04113C-C3A0-4110-8C47-A08E8AF7385B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C04113C-C3A0-4110-8C47-A08E8AF7385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C04113C-C3A0-4110-8C47-A08E8AF7385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C04113C-C3A0-4110-8C47-A08E8AF7385B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

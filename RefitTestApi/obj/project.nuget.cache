@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLyTnuuSsGuBmAqWezFsG96o369a/+0z0Wp/ZgrJpT7qcIK2EFywYw+Rx3KXrt3954QTp/Yf4AxcBTmNsKqEKQ==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\RefitTests\\RefitTestApi\\RefitTestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\joost.meulenkamp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
